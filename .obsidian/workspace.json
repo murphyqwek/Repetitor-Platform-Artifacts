@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/TODO.md",
+                "file": "Архитектура/Подсистемы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Подсистемы"
             }
           }
         ]
@@ -201,12 +201,14 @@
   },
   "active": "048585bd28023902",
   "lastOpenFiles": [
+    "Архитектура/Архитектура.drawio",
     "Требования/use-cases-teacher.md",
-    "TODO/TODO.md",
-    "TODO",
     "Требования/use-cases-student.md",
+    "Требования/use-case administartor.md",
     "Требования/use-cases-parent.md",
     "Требования/Use Case.md",
+    "TODO/TODO.md",
+    "TODO",
     "Архитектура/Подсистемы.md",
     "Добро пожаловать.md"
   ]
