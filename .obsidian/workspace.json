@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура/Подсистемы.md",
+                "file": "Требования/use-cases-parent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Подсистемы"
+              "title": "use-cases-parent"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Архитектура/Подсистемы.md",
+                "file": "Требования/use-cases-parent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,17 +191,16 @@
   },
   "active": "048585bd28023902",
   "lastOpenFiles": [
-    "Архитектура/Архитектура.drawio",
-    "Требования/use-cases-teacher.md",
+    "Архитектура/Архитектура.png",
     "Требования/use-cases-student.md",
-    "Требования/use-case administartor.md",
+    "Требования/use-cases-teacher.md",
     "Требования/use-cases-parent.md",
+    "Требования/use-case administartor.md",
+    "Архитектура/Подсистемы.md",
+    "Архитектура/Архитектура.drawio",
     "TODO/TODO.md",
     "TODO",
     "Требования/Use Case.md",
-    "TODO/TODO.md",
-    "TODO",
-    "Архитектура/Подсистемы.md",
     "Добро пожаловать.md"
   ]
 }
